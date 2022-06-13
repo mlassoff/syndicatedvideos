@@ -98,6 +98,37 @@
           }
         ]
       }
+    },
+    {
+      "id": "719895440",
+      "title": "DesignLab 001: Changing Backgrounds in PhotoshopChanging Backgrounds in Photoshop",
+      "shortDescription": "Have you ever taken a photo, loved the way the subject looked, but hated the background? In this video, Daniel will demonstrate changing background in Photoshop. This process is perfect for professional designs, or social media!",
+      "thumbnail": "https://i.vimeocdn.com/video/1450310607-881f26e3866f567f5a0c560df2515841f2254024b2e1c55c98d9062b912b9e8b-d_800x450.png",
+      "releaseDate": "2022-06-13T11:02:03-04:00",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        "Photoshop",
+        "Photoshop Tutorial",
+        "Tuts",
+        "Digital Design",
+        "Graphic Design",
+        "Removing Backgrounds in Photoshop",
+        "Learn Photosohp"
+      ],
+      "content": {
+        "dateAdded": "2022-06-13T12:56:40-04:00",
+        "duration": 919,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/progressive_redirect/playback/719895440/container/cc935122-e5ed-434c-9d79-153ab1e25690/f137219f-0eaef2cd?expires=1655226942&loc=external&signature=f39d5015aebecbd6943d51f4bb3a652a85eab8779bd5c0d4d562d7277f221fd6",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": null
+          }
+        ]
+      }
     }
   ]
 }
