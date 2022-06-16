@@ -83,7 +83,7 @@
   </movies>
   <movies>
     <id>719895440</id>
-    <title>DesignLab 001: Changing Backgrounds in PhotoshopChanging Backgrounds in Photoshop</title>
+    <title>DesignLab 001: Changing Backgrounds in Photoshop</title>
     <shortDescription>Have you ever taken a photo, loved the way the subject looked, but hated the background? In this video, Daniel will demonstrate changing background in Photoshop. This process is perfect for professional designs, or social media!</shortDescription>
     <thumbnail>https://i.vimeocdn.com/video/1450310607-881f26e3866f567f5a0c560df2515841f2254024b2e1c55c98d9062b912b9e8b-d_800x450.png</thumbnail>
     <releaseDate>2022-06-13T11:02:03-04:00</releaseDate>
@@ -94,12 +94,42 @@
     <tags>Digital Design</tags>
     <tags>Graphic Design</tags>
     <tags>Removing Backgrounds in Photoshop</tags>
-    <tags>Learn Photosohp</tags>
+    <tags>Learn Photoshop</tags>
     <content>
       <dateAdded>2022-06-13T12:56:40-04:00</dateAdded>
       <duration>919</duration>
       <videos>
         <url>https://player.vimeo.com/progressive_redirect/playback/719895440/container/cc935122-e5ed-434c-9d79-153ab1e25690/f137219f-0eaef2cd?expires=1655226942&amp;loc=external&amp;signature=f39d5015aebecbd6943d51f4bb3a652a85eab8779bd5c0d4d562d7277f221fd6</url>
+        <quality>FHD</quality>
+        <videoType>MP4</videoType>
+        <bitrate/>
+      </videos>
+    </content>
+  </movies>
+  <movies>
+    <id>721180135</id>
+    <title>DesignLab 002: Removing Background Objects</title>
+    <shortDescription>In this video, you will learn how to remove any unwanted part of an image, all without destroying the original image.  Removing unwanted objects from images is easy when Daniel shows you how. We&#x27;ll cover four methods of removing objects from image backgrounds in this episode of DesignLab.</shortDescription>
+    <thumbnail>https://i.vimeocdn.com/video/1452502915-fac7adcae7b607142fcb0da937d231ccf2e6de02131bf7c1f56040a8c4fca2f9-d_800x450.png</thumbnail>
+    <releaseDate>2022-06-16T14:48:54-04:00</releaseDate>
+    <genres></genres>
+    <tags>Photoshop</tags>
+    <tags>Photoshop Tutorial</tags>
+    <tags>Tuts</tags>
+    <tags>Digital Design</tags>
+    <tags>Graphic Design</tags>
+    <tags>Removing Objects in Photoshop</tags>
+    <tags>Learn Photoshop</tags>
+    <tags>content-aware fill</tags>
+    <tags>design tutorials</tags>
+    <tags>photoshop tutorials</tags>
+    <content>
+      <dateAdded>2022-06-16T16:58:57-04:00
+</dateAdded>
+      <duration>814</duration>
+      <videos>
+        <url>https://player.vimeo.com/progressive_redirect/playback/721180135/container/cfb26978-24ee-46da-ae00-a6e775271a24/93ff216c-c412e67c?expires=1655500810&amp;loc=external&amp;signature=053b706ab488d81e38cc532eb6b0ae1d0014b70bd8654ba179dc1180ac750a4f
+</url>
         <quality>FHD</quality>
         <videoType>MP4</videoType>
         <bitrate/>
